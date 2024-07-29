@@ -92,11 +92,4 @@ This application uses the following Python libraries:
 - [seaborn](https://seaborn.pydata.org/)
 - [tkinter](https://docs.python.org/3/library/tkinter.html)
 
----
 
-Feel free to customize this `README.md` file according to your needs and project specifications.
-```
-
-### Notes:
-- Replace `https://github.com/yourusername/cluster-analysis-app.git` with the actual URL of your GitHub repository.
-- Update any additional sections or information as needed based on your specific project details and requirements.
