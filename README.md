@@ -2,7 +2,6 @@
 CVI_clustering
 
 
-```markdown
 # Cluster Analysis App
 
 This Python application allows users to perform clustering analysis on a CSV file. It uses K-means clustering and provides visualizations for the optimal number of clusters using the Elbow Method and Silhouette Score. The results, including the PCA plot and feature distribution plots, are saved to a specified output directory.
@@ -28,7 +27,6 @@ You can install the required packages using pip:
 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
-```
 
 ## Usage
 
